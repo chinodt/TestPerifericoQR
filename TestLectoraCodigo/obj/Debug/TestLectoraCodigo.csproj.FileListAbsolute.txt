@@ -1,0 +1,8 @@
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\bin\Debug\TestLectoraCodigo.exe.config
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\bin\Debug\TestLectoraCodigo.exe
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\bin\Debug\TestLectoraCodigo.pdb
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Debug\TestLectoraCodigo.Form1.resources
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Debug\TestLectoraCodigo.Properties.Resources.resources
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Debug\TestLectoraCodigo.csproj.GenerateResource.Cache
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Debug\TestLectoraCodigo.exe
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Debug\TestLectoraCodigo.pdb

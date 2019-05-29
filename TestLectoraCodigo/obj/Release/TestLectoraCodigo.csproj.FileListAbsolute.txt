@@ -1,0 +1,9 @@
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\bin\Release\TestLectoraCodigo.exe.config
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\bin\Release\TestLectoraCodigo.exe
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\bin\Release\TestLectoraCodigo.pdb
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Release\TestLectoraCodigo.Form1.resources
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Release\TestLectoraCodigo.Properties.Resources.resources
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Release\TestLectoraCodigo.csproj.GenerateResource.Cache
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Release\TestLectoraCodigo.exe
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Release\TestLectoraCodigo.pdb
+C:\Aplicaciones\DotNet\TestLectoraCodigo\TestLectoraCodigo\obj\Release\TestLectoraCodigo.csprojResolveAssemblyReference.cache
